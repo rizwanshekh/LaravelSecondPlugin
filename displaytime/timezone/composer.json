@@ -1,0 +1,14 @@
+{
+    "name": "laravel/timezone",
+    "description": "it is basic current time display plugin",
+    "type": "composer-plugin",
+    "license": "5.1",
+    "authors": [
+        {
+            "name": "Shekh Rizwan",
+            "email": "rizwan@hirarky.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
