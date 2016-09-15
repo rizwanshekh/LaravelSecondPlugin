@@ -1,3 +1,3 @@
 <?php
-Route::get('timezones/{timezone}',
+Route::get('timezone/{timezone}',
   'laraveldaily\timezone\TimezonesController@index');
